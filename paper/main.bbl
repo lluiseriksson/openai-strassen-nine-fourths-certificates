@@ -1,0 +1,39 @@
+\begin{thebibliography}{1}
+
+\bibitem{coppersmith1990matrix}
+Don Coppersmith and Shmuel Winograd.
+\newblock Matrix multiplication via arithmetic progressions.
+\newblock {\em Journal of Symbolic Computation}, 9(3):251--280, 1990.
+
+\bibitem{demoura2021lean4}
+Leonardo de~Moura and Sebastian Ullrich.
+\newblock The {Lean~4} theorem prover and programming language.
+\newblock In {\em Automated Deduction -- CADE 28}, pages 625--635. Springer,
+  2021.
+
+\bibitem{openai2026omega94exact}
+{OpenAI}.
+\newblock The matrix multiplication exponent is nine fourths.
+\newblock OpenAI Mathematics Preprint
+  (\nolinkurl{github.com/openai/math/tree/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026}),
+  November 2026.
+
+\bibitem{openai2026omega94upper}
+{OpenAI}.
+\newblock An upper bound of $9/4$ for the matrix multiplication exponent.
+\newblock OpenAI Mathematics Preprint
+  (\nolinkurl{github.com/openai/math/tree/main/preprints/Matrix-Multiplication-Nine-Fourths-October-2-2026}),
+  October 2026.
+
+\bibitem{strassen1969gaussian}
+Volker Strassen.
+\newblock Gaussian elimination is not optimal.
+\newblock {\em Numerische Mathematik}, 13(4):354--356, 1969.
+
+\bibitem{strassen1988asymptotic}
+Volker Strassen.
+\newblock The asymptotic spectrum of tensors.
+\newblock {\em Journal f{\"u}r die reine und angewandte Mathematik},
+  384:102--152, 1988.
+
+\end{thebibliography}

@@ -1,0 +1,6 @@
+name = "StrassenNineFourths"
+defaultTargets = ["StrassenNineFourths"]
+
+[[lean_lib]]
+name = "StrassenNineFourths"
+moreLeanArgs = ["-j", "1"]

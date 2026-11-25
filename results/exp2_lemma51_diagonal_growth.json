@@ -1,0 +1,204 @@
+{
+  "rows": [
+    {
+      "a": 1,
+      "H_lb_val": 1.0,
+      "D_lb_val": 1.0,
+      "a_4_3_val": 1.0,
+      "P_tight_val": 1.0,
+      "upper_9_4_val": 1.0,
+      "H_lb_cube_over_a_val": 1.0,
+      "D_lb_cube_over_a4_val": 1.0
+    },
+    {
+      "a": 2,
+      "H_lb_val": 1.333333,
+      "D_lb_val": 3.333333,
+      "a_4_3_val": 2.519842,
+      "P_tight_val": 3.333333,
+      "upper_9_4_val": 4.326749,
+      "H_lb_cube_over_a_val": 1.185185,
+      "D_lb_cube_over_a4_val": 2.314815
+    },
+    {
+      "a": 3,
+      "H_lb_val": 1.555556,
+      "D_lb_val": 6.222222,
+      "a_4_3_val": 4.326749,
+      "P_tight_val": 6.333333,
+      "upper_9_4_val": 8.54988,
+      "H_lb_cube_over_a_val": 1.254687,
+      "D_lb_cube_over_a4_val": 2.974072
+    },
+    {
+      "a": 4,
+      "H_lb_val": 1.728395,
+      "D_lb_val": 9.506173,
+      "a_4_3_val": 6.349604,
+      "P_tight_val": 10.0,
+      "upper_9_4_val": 13.390518,
+      "H_lb_cube_over_a_val": 1.29083,
+      "D_lb_cube_over_a4_val": 3.355654
+    },
+    {
+      "a": 5,
+      "H_lb_val": 1.872428,
+      "D_lb_val": 13.106996,
+      "a_4_3_val": 8.54988,
+      "P_tight_val": 14.333333,
+      "upper_9_4_val": 18.720754,
+      "H_lb_cube_over_a_val": 1.312941,
+      "D_lb_cube_over_a4_val": 3.602711
+    },
+    {
+      "a": 6,
+      "H_lb_val": 1.997257,
+      "D_lb_val": 16.97668,
+      "a_4_3_val": 10.902724,
+      "P_tight_val": 19.333333,
+      "upper_9_4_val": 24.463781,
+      "H_lb_cube_over_a_val": 1.327854,
+      "D_lb_cube_over_a4_val": 3.775316
+    },
+    {
+      "a": 7,
+      "H_lb_val": 2.108215,
+      "D_lb_val": 21.082152,
+      "a_4_3_val": 13.390518,
+      "P_tight_val": 25.0,
+      "upper_9_4_val": 30.567351,
+      "H_lb_cube_over_a_val": 1.338588,
+      "D_lb_cube_over_a4_val": 3.902588
+    },
+    {
+      "a": 8,
+      "H_lb_val": 2.208606,
+      "D_lb_val": 25.398974,
+      "a_4_3_val": 16.0,
+      "P_tight_val": 31.333333,
+      "upper_9_4_val": 36.993181,
+      "H_lb_cube_over_a_val": 1.346682,
+      "D_lb_cube_over_a4_val": 4.000263
+    },
+    {
+      "a": 9,
+      "H_lb_val": 2.300632,
+      "D_lb_val": 29.908212,
+      "a_4_3_val": 18.720754,
+      "P_tight_val": 38.333333,
+      "upper_9_4_val": 43.711787,
+      "H_lb_cube_over_a_val": 1.353003,
+      "D_lb_cube_over_a4_val": 4.077569
+    },
+    {
+      "a": 10,
+      "H_lb_val": 2.38584,
+      "D_lb_val": 34.594684,
+      "a_4_3_val": 21.544347,
+      "P_tight_val": 46.0,
+      "upper_9_4_val": 50.699631,
+      "H_lb_cube_over_a_val": 1.358076,
+      "D_lb_cube_over_a4_val": 4.140265
+    },
+    {
+      "a": 11,
+      "H_lb_val": 2.465368,
+      "D_lb_val": 39.445892,
+      "a_4_3_val": 24.463781,
+      "P_tight_val": 54.333333,
+      "upper_9_4_val": 57.937408,
+      "H_lb_cube_over_a_val": 1.362237,
+      "D_lb_cube_over_a4_val": 4.192129
+    },
+    {
+      "a": 12,
+      "H_lb_val": 2.540076,
+      "D_lb_val": 44.451337,
+      "a_4_3_val": 27.473142,
+      "P_tight_val": 63.333333,
+      "upper_9_4_val": 65.408941,
+      "H_lb_cube_over_a_val": 1.365712,
+      "D_lb_cube_over_a4_val": 4.235742
+    },
+    {
+      "a": 13,
+      "H_lb_val": 2.610634,
+      "D_lb_val": 49.602047,
+      "a_4_3_val": 30.567351,
+      "P_tight_val": 73.0,
+      "upper_9_4_val": 73.100443,
+      "H_lb_cube_over_a_val": 1.368657,
+      "D_lb_cube_over_a4_val": 4.272926
+    },
+    {
+      "a": 14,
+      "H_lb_val": 2.677573,
+      "D_lb_val": 54.890255,
+      "a_4_3_val": 33.741992,
+      "P_tight_val": 83.333333,
+      "upper_9_4_val": 81.0,
+      "H_lb_cube_over_a_val": 1.371185,
+      "D_lb_cube_over_a4_val": 4.305004
+    },
+    {
+      "a": 15,
+      "H_lb_val": 2.741325,
+      "D_lb_val": 60.309153,
+      "a_4_3_val": 36.993181,
+      "P_tight_val": 94.333333,
+      "upper_9_4_val": 89.097188,
+      "H_lb_cube_over_a_val": 1.373379,
+      "D_lb_cube_over_a4_val": 4.33296
+    },
+    {
+      "a": 16,
+      "H_lb_val": 2.802243,
+      "D_lb_val": 65.852722,
+      "a_4_3_val": 40.317474,
+      "P_tight_val": 106.0,
+      "upper_9_4_val": 97.3828,
+      "H_lb_cube_over_a_val": 1.375301,
+      "D_lb_cube_over_a4_val": 4.357539
+    },
+    {
+      "a": 17,
+      "H_lb_val": 2.860624,
+      "D_lb_val": 71.515589,
+      "a_4_3_val": 43.711787,
+      "P_tight_val": 118.333333,
+      "upper_9_4_val": 105.848633,
+      "H_lb_cube_over_a_val": 1.376998,
+      "D_lb_cube_over_a4_val": 4.379318
+    },
+    {
+      "a": 18,
+      "H_lb_val": 2.916714,
+      "D_lb_val": 77.292927,
+      "a_4_3_val": 47.173345,
+      "P_tight_val": 131.333333,
+      "upper_9_4_val": 114.487321,
+      "H_lb_cube_over_a_val": 1.378508,
+      "D_lb_cube_over_a4_val": 4.39875
+    },
+    {
+      "a": 19,
+      "H_lb_val": 2.970727,
+      "D_lb_val": 83.180369,
+      "a_4_3_val": 50.699631,
+      "P_tight_val": 145.0,
+      "upper_9_4_val": 123.292209,
+      "H_lb_cube_over_a_val": 1.379859,
+      "D_lb_cube_over_a4_val": 4.416194
+    },
+    {
+      "a": 20,
+      "H_lb_val": 3.022845,
+      "D_lb_val": 89.173942,
+      "a_4_3_val": 54.288352,
+      "P_tight_val": 159.333333,
+      "upper_9_4_val": 132.257246,
+      "H_lb_cube_over_a_val": 1.381077,
+      "D_lb_cube_over_a4_val": 4.43194
+    }
+  ]
+}

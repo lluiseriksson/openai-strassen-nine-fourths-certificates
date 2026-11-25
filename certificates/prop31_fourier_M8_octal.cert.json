@@ -1,0 +1,12 @@
+{
+  "schema": "STRASSEN-94-CERT-1.0",
+  "mode": "prop31_fourier_separation_cert",
+  "cert_id": "prop31_fourier_M8_octal",
+  "M": 8,
+  "claimed_L": 40,
+  "claimed_max_abs_phase": 21,
+  "claimed_surviving_count": 216,
+  "claimed_weight_zero_count": 64,
+  "claimed_actual_max_weight": 9,
+  "claimed_paper_degree_bound": 49
+}

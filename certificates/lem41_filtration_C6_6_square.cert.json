@@ -1,0 +1,15 @@
+{
+  "schema": "STRASSEN-94-CERT-1.0",
+  "mode": "lemma41_determinant_filtration_cert",
+  "cert_id": "lem41_filtration_C6_6_square",
+  "a": 6,
+  "b": 6,
+  "claimed_in_dim": 12,
+  "claimed_out_dim": 22,
+  "claimed_quot_in_dim": 7,
+  "claimed_ker_in_dim": 5,
+  "claimed_upper_right_nnz": 0,
+  "claimed_cross_block_nnz": 5,
+  "claimed_diag_plus_nnz": 42,
+  "claimed_diag_minus_nnz": 30
+}

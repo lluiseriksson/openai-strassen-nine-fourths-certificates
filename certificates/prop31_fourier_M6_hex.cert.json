@@ -1,0 +1,12 @@
+{
+  "schema": "STRASSEN-94-CERT-1.0",
+  "mode": "prop31_fourier_separation_cert",
+  "cert_id": "prop31_fourier_M6_hex",
+  "M": 6,
+  "claimed_L": 30,
+  "claimed_max_abs_phase": 15,
+  "claimed_surviving_count": 92,
+  "claimed_weight_zero_count": 36,
+  "claimed_actual_max_weight": 4,
+  "claimed_paper_degree_bound": 25
+}

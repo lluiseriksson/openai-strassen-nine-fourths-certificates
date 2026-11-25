@@ -1,0 +1,20 @@
+import StrassenNineFourths
+
+#print axioms StrassenNineFourths.prop31_fourier_modulus_no_wrap
+#print axioms StrassenNineFourths.prop31_squared_mismatch_weight
+#print axioms StrassenNineFourths.prop31_degeneration_degree_bound
+#print axioms StrassenNineFourths.lemma41_determinant_exact_seq_dim
+#print axioms StrassenNineFourths.lemma41_block_triangular_weights
+#print axioms StrassenNineFourths.lemma41_c22_filtration_identity
+#print axioms StrassenNineFourths.lemma42_three_sector_weights_nonneg
+#print axioms StrassenNineFourths.lemma42_middle_branch_reversal
+#print axioms StrassenNineFourths.sec4_six_perm_exponent_sum
+#print axioms StrassenNineFourths.lemma51_increments_step_antitone
+#print axioms StrassenNineFourths.lemma51_increments_antitone
+#print axioms StrassenNineFourths.lemma51_secant_upper_bound
+#print axioms StrassenNineFourths.lemma51_tripling_slope_bound
+#print axioms StrassenNineFourths.lemma51_H_step_recurrence
+#print axioms StrassenNineFourths.lemma51_cubic_step_inequality
+#print axioms StrassenNineFourths.lemma51_H_cube_ge_a
+#print axioms StrassenNineFourths.lemma51_main_diagonal_growth_a4_3
+#print axioms StrassenNineFourths.thm11_omega_nine_fourths_barrier

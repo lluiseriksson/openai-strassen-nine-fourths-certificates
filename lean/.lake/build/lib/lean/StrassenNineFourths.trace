@@ -1,0 +1,31 @@
+{"synthetic": false,
+ "schemaVersion": "2025-09-10",
+ "outputs":
+ {"o": ["ec99cd9fa1244eb2.olean"],
+  "m": false,
+  "i": "6c3db7ce648d4978.ilean",
+  "c": "f18c62673109ccd0.c"},
+ "log":
+ [{"message":
+   ".> LEAN_PATH=D:\\Datos\\gemini\\antigravity\\scratch\\airr-frontier-lab\\paper57-openai-strassen-nine-fourths-certificates\\lean\\.lake\\build\\lib\\lean c:\\Users\\lluis\\.elan\\toolchains\\leanprover--lean4---v4.35.0\\bin\\lean.exe -j 1 D:\\Datos\\gemini\\antigravity\\scratch\\airr-frontier-lab\\paper57-openai-strassen-nine-fourths-certificates\\lean\\StrassenNineFourths.lean -o D:\\Datos\\gemini\\antigravity\\scratch\\airr-frontier-lab\\paper57-openai-strassen-nine-fourths-certificates\\lean\\.lake\\build\\lib\\lean\\StrassenNineFourths.olean -i D:\\Datos\\gemini\\antigravity\\scratch\\airr-frontier-lab\\paper57-openai-strassen-nine-fourths-certificates\\lean\\.lake\\build\\lib\\lean\\StrassenNineFourths.ilean -c D:\\Datos\\gemini\\antigravity\\scratch\\airr-frontier-lab\\paper57-openai-strassen-nine-fourths-certificates\\lean\\.lake\\build\\ir\\StrassenNineFourths.c --setup D:\\Datos\\gemini\\antigravity\\scratch\\airr-frontier-lab\\paper57-openai-strassen-nine-fourths-certificates\\lean\\.lake\\build\\ir\\StrassenNineFourths.setup.json --json",
+   "level": "trace"}],
+ "inputs":
+ [["deps",
+   [["StrassenNineFourths/StrassenNineFourths:extraDep",
+     [["@StrassenNineFourths:extraDep", "00000000000006bb"]]],
+    ["imports", "00000000000006bb"]]],
+  ["libs",
+   [["import dynlibs", "00000000000006bb"],
+    ["package external libraries", "00000000000006bb"],
+    ["module dynlibs", "00000000000006bb"],
+    ["module plugins", "00000000000006bb"]]],
+  ["Lean 4.35.0, commit eb6cafb7290e8bd5f2937522d8d804f58f02bafc",
+   "407ce514b71d5a10"],
+  ["D:\\Datos\\gemini\\antigravity\\scratch\\airr-frontier-lab\\paper57-openai-strassen-nine-fourths-certificates\\lean\\StrassenNineFourths.lean",
+   "27cc0d757c541764"],
+  ["options", "00000000000006bb"],
+  ["isModule: false", "feefd2a0d3a1847e"],
+  ["Module.name: StrassenNineFourths", "1014ae92ac0ae472"],
+  ["Package.id?: (some StrassenNineFourths)", "54472a4e87f0dbc3"],
+  ["Module.leanArgs: #[-j, 1]", "1b3147fdf7976639"]],
+ "depHash": "37472b28b6cfca5b"}

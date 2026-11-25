@@ -1,0 +1,14 @@
+{
+  "schema": "STRASSEN-94-CERT-1.0",
+  "mode": "lemma42_three_sector_tripling_cert",
+  "cert_id": "lem42_sectors_C8_31_diag",
+  "a": 8,
+  "h": 8,
+  "claimed_B": 31,
+  "claimed_total_terms": 248,
+  "claimed_w0_left": 64,
+  "claimed_w0_mid": 64,
+  "claimed_w0_right": 64,
+  "claimed_dropped_w1": 56,
+  "claimed_neg_count": 0
+}

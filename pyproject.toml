@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "openai-strassen-nine-fourths-certificates"
+version = "1.0.0"
+description = "Constructive Lean 4.35.0 formalization (including universal inductive Lemma 5.1) and zero-float exact-Q certificate stack (STRASSEN-94-CERT-1.0) for OpenAI's omega <= 9/4 Strassen spectral profile proof."
+authors = [{name = "Lluis Eriksson"}]
+license = {text = "MIT"}
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

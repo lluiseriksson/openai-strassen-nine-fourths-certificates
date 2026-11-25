@@ -1,0 +1,34 @@
+{
+  "rows": [
+    {
+      "t_rat": "1",
+      "omega_rat": "3",
+      "omega_val": 3.0,
+      "min_refute_a": 7
+    },
+    {
+      "t_rat": "9/10",
+      "omega_rat": "27/10",
+      "omega_val": 2.7,
+      "min_refute_a": 30
+    },
+    {
+      "t_rat": "5/6",
+      "omega_rat": "5/2",
+      "omega_val": 2.5,
+      "min_refute_a": 508
+    },
+    {
+      "t_rat": "9/11",
+      "omega_rat": "27/11",
+      "omega_val": 2.45455,
+      "min_refute_a": 2043
+    },
+    {
+      "t_rat": "4/5",
+      "omega_rat": "12/5",
+      "omega_val": 2.4,
+      "min_refute_a": 32761
+    }
+  ]
+}
